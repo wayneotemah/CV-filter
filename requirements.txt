@@ -1,0 +1,7 @@
+# AI packages
+langchain_openai
+langchain_community
+openai
+python-dotenv
+langchain_groq
+pypdf
