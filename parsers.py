@@ -9,7 +9,7 @@ class Response(BaseModel):
         title="brife summary",
         description="summary of the candidate qualifications and experience"
     )
-    socre: int = Field(
+    score: int = Field(
         title="score",
         description="score between 1(lowest) to 10(highest consederation) of the candidate based on the information provided in the resume"
     )
