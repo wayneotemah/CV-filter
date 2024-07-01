@@ -8,3 +8,9 @@ pypdf
 pymupdf
 streamlit
 openpyxl
+sqlalchemy 
+databases
+fastapi
+uvicorn
+requests
+pydantic

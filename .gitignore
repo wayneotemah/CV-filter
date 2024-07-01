@@ -1,4 +1,7 @@
 test_CV
+media/tmp/**
+test.db
+store.db
 
 # Backup files # 
 *.bak
